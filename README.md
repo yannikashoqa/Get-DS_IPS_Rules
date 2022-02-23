@@ -1,7 +1,7 @@
 # Get-DS_IPS_Rules
 AUTHOR		: Yanni Kashoqa
 
-TITLE		: Deep Security Agent Integrity Monitoring Rules Removal
+TITLE		: Deep Security IPS Rule Report
 
 DESCRIPTION	: This Powershell script will retrieve Deep Security IPS Rules of all systems based on assigned Policy ID:
 
